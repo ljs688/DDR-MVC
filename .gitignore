@@ -1,0 +1,13 @@
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE metadata
+.idea/
+.vscode/
+
+# Runtime artifacts
+checkpoints/*.pt
+*.log
